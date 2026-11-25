@@ -21,7 +21,7 @@ cd analysing-company-performance-with-sql
 
 You can now open `analysis.md` to explore the findings and figures.You can read the full analysis and view the figures directly on GitHub.The original assignment dataset is not distributed with this repository.
 
-#![The entity relationship diagram (ERD) for this dataset](image/nortwind-erd.png)
+#![The entity relationship diagram (ERD) for this dataset](image/nortwind_erd.png)
 
 
 ## Key findings
