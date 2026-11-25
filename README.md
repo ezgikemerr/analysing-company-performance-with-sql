@@ -19,7 +19,10 @@ git clone https://github.com/ezgikemerr/analysing-company-performance-with-sql.g
 cd analysing-company-performance-with-sql
 ```
 
-You can now open `analysis.md` to explore the findings and figures. To run the SQL queries yourself, continue with the database setup below. You can read the full analysis and view the figures directly on GitHub. Running the SQL requires a populated Northwind PostgreSQL database. The original assignment dataset is not distributed with this repository.
+You can now open `analysis.md` to explore the findings and figures.You can read the full analysis and view the figures directly on GitHub.The original assignment dataset is not distributed with this repository.
+
+#![The entity relationship diagram (ERD) for this dataset](image/nortwind-erd.png)
+
 
 ## Key findings
 
